@@ -3,7 +3,7 @@
     bottom: 0;
 
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
 }
 
 .footer > span {
