@@ -17,17 +17,17 @@ const routes: Routes = [
     component: ProductCrudComponent
   },
   {
-    path: "product/create",
+    path: "products/create",
     component: ProductCreateComponent
     
   },
   {
-    path: "product/update/:id",
+    path: "products/update/:id",
     component: ProductUpdateComponent
     
   },
   {
-    path: "product/delete/:id",
+    path: "products/delete/:id",
     component: ProductDeleteComponent
     
   }
